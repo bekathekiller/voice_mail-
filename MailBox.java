@@ -12,7 +12,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Dagi
+ * @author beki
  */
 public class MailBox extends javax.swing.JFrame {
 
