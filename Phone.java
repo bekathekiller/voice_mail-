@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Dagi
+ * @author beki
  */
 public class Phone extends javax.swing.JFrame {
 
